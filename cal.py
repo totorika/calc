@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-we are adding something in da front --- adding code
+wow we are adding something in da front --- adding code
 =======
 again adding code
 >>>>>>> multiply
